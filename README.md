@@ -4,6 +4,21 @@
 
 Designed and developed a full-stack web application to facilitate food donation and sharing, reducing food waste through a user-friendly platform that connects donors and receivers in real-time. Implemented secure user authentication with JWT tokens and password hashing using bcrypt, enabling seamless registration and login processes for community engagement. Built RESTful APIs with Node.js and Express.js for backend operations, including food donation submissions, browsing available items, and claim management, while integrating MongoDB with Mongoose for efficient data storage and retrieval. Architected a responsive frontend using Vanilla JavaScript and Tailwind CSS, ensuring cross-device compatibility and dynamic user interfaces for donation forms, search functionalities, and profile management.
 
+## 🚀 Project Overview
+I led the development of **Shario**, a full-stack web application built to tackle food waste by connecting donors and receivers in real-time. This project was a massive challenge as my team and I built the entire platform from scratch during a **continuous 8-hour Ideathon**.
+
+As the **Team Lead and Full-Stack Developer**, I was responsible for the project's overall architecture. I managed the team's workflow, ensured the frontend and backend were perfectly integrated, and handled the final deployment. I focused on making the platform scalable, secure, and intuitive for users who want to make a difference in their communities.
+
+---
+
+## 👥 My Team
+I am proud to have led this talented team during our 8-hour sprint:
+
+* **[Suma](https://github.com/Suma-1417) (Team Lead & Full-Stack Developer)**: I oversaw the project lifecycle, coordinated team tasks, and developed core full-stack features to ensure all components worked together seamlessly.
+* **[Gayathri Yadla](https://github.com/Gayathri-yadla) (Backend Developer)**: Gayathri architected the RESTful APIs and handled the server-side logic using Node.js and Express.js.
+* **[Veda Nagumothu](https://github.com/vedanagumothu) (Security & Database Engineer)**: Veda implemented our secure JWT authentication, password hashing, and managed the MongoDB database.
+* **[Kavya Mugada](https://github.com/Kavyamugada) (Frontend & UI Specialist)**: Kavya focused on the user interface, using Tailwind CSS to ensure the app was responsive and beautiful across all devices.
+
 ## 🌟 Key Features
 
 *   **Unified Account System:** A single registration/login system for all users. No separate donor/receiver accounts.
